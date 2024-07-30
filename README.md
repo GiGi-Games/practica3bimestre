@@ -1,2 +1,2 @@
-# practica3bimestre
+# practica 3er bimestre
 practicagestionsoftware
